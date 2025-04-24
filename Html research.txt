@@ -1,0 +1,9 @@
+research  bot in html 
+<strong ></strong >
+<em></em> foucas 
+<blockquote><>اقتباس
+<abbr><abbr> short text 
+<dfin><>science text 
+<cite><>incloud from ather  page
+<alt><> img tag to content txt
+<meta HTTP-equiv =expires " content =fir, 05APR 2019 23:59:59>
